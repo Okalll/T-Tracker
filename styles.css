@@ -8,5 +8,8 @@ h1{
   font-family: 'El Messiri', sans-serif
 }
 p{
-  padding: 10px;
+  padding-left: 200px;
+  justify-content: centre;
+  display: flex;
+  text-align: center;
 }
