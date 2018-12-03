@@ -5,7 +5,7 @@ A Triangle Tracker is an application used for inputting figures to come up with 
 ## Set-up/Installation
 Since it cannot be installed all you can do is to fork it and clone it through my Github.
 ## Site on Github
-You can get this application on <a href="https://github.com/Okalll/T-Tracker"></a>
+https://github.com/Okalll/T-Tracker
 ## Known Bugs
 At the moment there are no current bugs.
 ## Technologies used
