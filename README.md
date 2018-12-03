@@ -12,3 +12,7 @@ At the moment there are no current bugs.
 HTML
 CSS
 Javascript
+## Contacts
+Any difficulties encountered you can reach me through vivieokall@gmail.com
+## License
+MIT license (c) **Okall Vivian**
