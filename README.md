@@ -19,7 +19,7 @@ A Triangle Tracker is an application used for inputting figures to come up with 
 7.Press ENTER.Your local clone will be created.
 
 ## Site on Github
-https://github.com/Okalll/T-Tracker
+https://okalll.github.io/T-Tracker/
 ## Known Bugs
 At the moment there are no current bugs.
 ## Technologies used
